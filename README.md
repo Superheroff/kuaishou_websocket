@@ -13,9 +13,13 @@ main
 └── requirements.txt # 依赖文件
 ```
 
+## 优点
+- 速度快
+- 可以多线程
+
 ## 配置文件`config.ini`详解
 ```
-live_ids = KPL704668133
+live_ids = KPL704668133 多个使用','间隔
 thread = 2
 phone = 登录的手机号
 ```
