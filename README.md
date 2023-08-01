@@ -6,13 +6,13 @@
 │
 ├── cookie  # 登录后存放cookie文件
 │     └── 手机号.json # cookie文件
-│── config.ini  # 配置文件 
-│── cookie.txt  # cookie文件
-│── main.py    # 前端运行文件
-│── kuaishou_pb2.py  # 弹幕解析文件
+├── config.ini  # 配置文件 
+├── cookie.txt  # cookie文件
+├── main.py    # 前端运行文件
+├── kuaishou_pb2.py  # 弹幕解析文件
 └── requirements.txt # 依赖文件
 ```
-## 安装和使用
+## 安装
 - 执行下列命令安装
 ```
 pip install -r requirements.txt
